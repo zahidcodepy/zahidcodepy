@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Zahid Khan 👋
 
-<!--
-**zahidcodepy/zahidcodepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python learner building real projects every day
+📍 India | 🎯 Goal: Become a backend developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm currently learning Python from the ground up —
+writing mini projects, solving problems, and committing
+every day. I believe in learning by doing.
+
+## Skills & tools
+
+- Languages: Python
+- Tools: Git, GitHub, VS Code
+- Currently learning: Python OOP
+
+## Featured projects
+
+| Project | Description | Tech |
+|---|---|---|
+| python-mini-projects | Calculator, quiz game, number guesser | Python |
+| birthday-wish(HTML)
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=default)
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/zahid-khan-b59985402/
+- Instagram: [@zahid_k_18](https://www.instagram.com/zahid_k_18)
+- Email: zahidkhan18100@gmail.com
