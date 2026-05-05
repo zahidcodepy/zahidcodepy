@@ -26,7 +26,7 @@ every day. I believe in learning by doing.
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=default)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidcodepy)
 
 ## Connect with me
 
