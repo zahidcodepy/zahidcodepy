@@ -22,7 +22,7 @@ every day. I believe in learning by doing.
 | Project | Description | Tech |
 |---|---|---|
 | python-mini-projects | Calculator, quiz game, number guesser | Python |
-| birthday-wish(HTML)
+| birthday-wish | Interactive birthday page( https://zahidcodepy.github.io/birthday-wish ) | Html
 
 ## GitHub stats
 
