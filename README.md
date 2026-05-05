@@ -1,7 +1,7 @@
 # Hi, I'm Zahid Khan 👋
 
 🐍 Python learner building real projects every day
-📍 India | 🎯 Goal: Become a backend developer
+📍 India | 🎯 Goal: Become an AI/ML Engineer.
 
 ---
 
