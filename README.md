@@ -13,9 +13,10 @@ every day. I believe in learning by doing.
 
 ## Skills & tools
 
-- Languages: Python
+- Languages: Python, HTML, CSS
 - Tools: Git, GitHub, VS Code
-- Currently building hand on Experience: Python OOP, Prompt Engineering
+- Currently building hands-on experience in: Python OOP, Prompt Engineering
+
   
 ## My roadmap:
 Python → Data Science → Machine Learning → AI Engineer.
