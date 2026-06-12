@@ -29,7 +29,7 @@ Python → Data Science → Machine Learning → AI Engineer.
 
 ## GitHub stats
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidcodepy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=default)
 
 ## Connect with me
 
