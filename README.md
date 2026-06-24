@@ -31,6 +31,7 @@ Python → Data Science → Machine Learning → AI Engineer.
 |---|---|---|
 | python-mini-projects | Calculator, quiz game, number guesser | Python |
 | birthday-wish | Interactive birthday page( https://zahidcodepy.github.io/birthday-wish ) | Html
+| [NagpurLens](https://github.com/zahidcodepy/nagpurlens) | City-scale real estate intelligence platform for Nagpur — Investment scores, price trends & zone analysis | Python, SQL, Power BI |
 
 ## GitHub stats
 
