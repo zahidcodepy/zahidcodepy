@@ -60,12 +60,20 @@ I'm a Python learner and developer who believes in learning by building. I write
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidcodepy&layout=compact&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidcodepy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zahidcodepy&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zahidcodepy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zahidcodepy&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidcodepy&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
 </p>
 
 ---
