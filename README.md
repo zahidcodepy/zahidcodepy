@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Python developer building toward AI/ML Engineering</b><br/>
-  📍 Nagpur, India &nbsp;|&nbsp; 🎓 ACET Nagpur &nbsp;|&nbsp; 🎯 Goal: AI/ML Engineer
+  📍 Nagpur, India &nbsp;|&nbsp;  &nbsp;|&nbsp; 🎯 Goal: AI/ML Engineer
 </p>
 
 <p align="center">
