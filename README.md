@@ -14,6 +14,8 @@
 
 I'm learning Python from the ground up — writing mini projects, solving problems, and committing every day. I believe in learning by doing, and I'm working my way toward a career in AI/ML and Data Science.
 
+> Outside of coding, I also work with graphic design, video editing, Adobe Illustrator, UI/UX design, and HDL/VHDL.
+
 - 🔭 Currently building: Python fundamentals & mini projects
 - 🌱 Currently learning: Python OOP, Prompt Engineering
 - 🎯 Goal: Python → Data Science → Machine Learning → AI Engineer
