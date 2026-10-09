@@ -1,76 +1,67 @@
-<h1 align="center">Hi there, I'm Zahid Khan 👋</h1>
+# Hey, I'm Zahid 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Python+Learner;Aspiring+AI%2FML+Engineer;Building+Projects+Daily;Open+to+Opportunities" alt="Typing SVG" />
-</p>
+I'm a Python developer and co-founder of **[Apex Analyticx](https://github.com/Apex-Analyticx-group)**, a data analytics and tech company I'm building from Nagpur, India.
 
-<p align="center">
-  📍 Nagpur, India &nbsp;|&nbsp; 🎯 Goal: Become an AI/ML Engineer
-</p>
+I work with data, write Python, and build websites. I'm on the path to AI/ML engineering, and I'd rather learn it by shipping real things than by watching tutorials.
+
+**Open to:** remote roles (Python / data) and freelance projects.
 
 ---
 
-## 👨‍💻 About Me
+## What I can do for you
 
-I'm learning Python from the ground up — writing mini projects, solving problems, and committing every day. I believe in learning by doing, and I'm working my way toward a career in AI/ML and Data Science.
-
-> Outside of coding, I also work with graphic design, video editing, Adobe Illustrator, UI/UX design, and HDL/VHDL.
-
-- 🔭 Currently building: Python fundamentals & mini projects
-- 🌱 Currently learning: Python OOP, Prompt Engineering
-- 🎯 Goal: Python → Data Science → Machine Learning → AI Engineer
-- 💬 Ask me about: Python basics, beginner project ideas
-- 📫 Reach me: LinkedIn (below)
+- **Python & automation:** scripts that take over the boring, repetitive stuff
+- **Data work:** cleaning, validating and documenting messy data so people can actually trust it
+- **Websites:** landing pages and portfolio sites (Next.js, Tailwind, or plain HTML/CSS)
+- **Design:** logos, brand visuals, UI/UX and video editing
 
 ---
 
-## 🛠️ Skills & Tools
+## Things I've built
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Apex Analyticx (co-founder)
+A data analytics and technology company that helps businesses turn raw data into decisions. Still early, and I'm hands-on across the brand, the content and our website.
+[GitHub org](https://github.com/Apex-Analyticx-group) · [LinkedIn](https://www.linkedin.com/company/apex-analyticx)
 
----
+### NagpurLens: urban analytics for Nagpur
+A collaborative urban analytics and real estate intelligence platform for the city: investment scores, price-trend analysis and Power BI dashboards. Built with two teammates.
+**My part:** data quality validation, coordinate verification, methodology documentation and web management.
+[Repo](REPLACE-WITH-NAGPURLENS-REPO-LINK)
 
-## 📂 Featured Projects
+### AI search algorithms
+BFS, DFS and A\* search in Python, built for my AI lab course, with full documentation, lab records and diagrams so the logic is easy to follow.
+[Repo](https://github.com/zahidcodepy/python-ai-search-algorithms)
 
-| Project | Description | Tech |
-|---|---|---|
-| [python-basics-journey](https://github.com/zahidcodepy/python-basics-journey) | My Python learning journey — basics, data types, loops, functions, OOP | Python |
-| [python-mini-projects](https://github.com/zahidcodepy/python-mini-projects) | Calculator, quiz game, number guesser — built to practice logic | Python |
-| [birthday-wish](https://github.com/zahidcodepy/birthday-wish) | Interactive birthday page — [Live Demo](https://zahidcodepy.github.io/birthday-wish) | HTML, CSS |
+### Python Engineer Handbook
+A beginner-friendly Python teaching resource, organised chapter by chapter. I built the curriculum and structure first, then the foundation chapters. I'm writing the thing I wish I'd had when I started.
+[Repo](https://github.com/zahidcodepy/python-engineer-handbook)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=zahidcodepy&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidcodepy&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
+*Where it all started:* [python-basics-journey](https://github.com/zahidcodepy/python-basics-journey) and [python-mini-projects](https://github.com/zahidcodepy/python-mini-projects). Not fancy, but you can see the progress.
 
 ---
 
-## 🤝 Connect With Me
+## What I'm working on right now
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zahid-khan-b59985402/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/zahid_k_18/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+- Building the Apex Analyticx website with Next.js, TypeScript, Tailwind and Framer Motion
+- Growing the Python Engineer Handbook
+- Learning: Python OOP, prompt engineering, and the data science → ML path, one project at a time
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zahidcodepy&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
-</p>
+## Toolbox
+
+**Code:** Python · Git & GitHub · HTML/CSS · Next.js, TypeScript, Tailwind (what I'm using on the Apex site)
+**Data:** Power BI · data validation · methodology documentation
+**Design:** Adobe Illustrator · UI/UX · graphic design · video editing
+**Also:** HDL/VHDL (hardware design, a side most Python folks don't have)
+
+---
+
+## Let's talk
+
+Got a data mess, a website to build, or a remote role where I'd fit? Send me a short note on what you're trying to do and your timeline.
+
+- 📧 Email: REPLACE-WITH-YOUR-EMAIL
+- 💼 LinkedIn: [Zahid Khan](https://www.linkedin.com/in/zahid-khan-b59985402/)
+- 🌐 Portfolio: [REPLACE-WITH-PORTFOLIO-URL](REPLACE-WITH-PORTFOLIO-URL)
+- 🕐 Timezone: IST (UTC+5:30), Nagpur, India
