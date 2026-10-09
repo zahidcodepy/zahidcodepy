@@ -32,10 +32,6 @@ A collaborative urban analytics and real estate intelligence platform for the ci
 BFS, DFS and A\* search in Python, built for my AI lab course, with full documentation, lab records and diagrams so the logic is easy to follow.
 [Repo](https://github.com/zahidcodepy/python-ai-search-algorithms)
 
-### Python Engineer Handbook
-A beginner-friendly Python teaching resource, organised chapter by chapter. I built the curriculum and structure first, then the foundation chapters. I'm writing the thing I wish I'd had when I started.
-[Repo](https://github.com/zahidcodepy/python-engineer-handbook)
-
 *Where it all started:* [python-basics-journey](https://github.com/zahidcodepy/python-basics-journey) and [python-mini-projects](https://github.com/zahidcodepy/python-mini-projects). Not fancy, but you can see the progress.
 
 ---
@@ -43,7 +39,6 @@ A beginner-friendly Python teaching resource, organised chapter by chapter. I bu
 ## What I'm working on right now
 
 - Building the Apex Analyticx website with Next.js, TypeScript, Tailwind and Framer Motion
-- Growing the Python Engineer Handbook
 - Learning: Python OOP, prompt engineering, and the data science → ML path, one project at a time
 
 ---
