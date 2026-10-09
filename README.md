@@ -106,9 +106,7 @@ Not fancy, but you can see the progress:
 
 Got a data mess, a website to build, or a remote role where I'd fit? Send me a short note on what you're trying to do and your timeline.
 
-- 📧 Email: REPLACE-WITH-YOUR-EMAIL
+- 📧 Email: zahidkhan18100@gmail.com
 - 💼 LinkedIn: [Zahid Khan](https://www.linkedin.com/in/zahid-khan-b59985402/)
-- 🌐 Portfolio: [REPLACE-WITH-PORTFOLIO-URL](REPLACE-WITH-PORTFOLIO-URL)
-- 🕐 Timezone: IST (UTC+5:30), Nagpur, India
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C5FE0,100:050505&height=100&section=footer)
