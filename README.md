@@ -1,4 +1,20 @@
-# Hey, I'm Zahid 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1C5FE0,100:050505&height=180&section=header&text=Zahid%20Khan&fontSize=42&fontColor=ffffff&desc=Python%20%C2%B7%20Data%20%C2%B7%20Web&descSize=16)
+
+<div align="center">
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1C5FE0&center=true&vCenter=true&width=600&lines=Python+developer;Co-founder+at+Apex+Analyticx;Building+toward+AI%2FML)
+
+![Open to](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-2EA44F?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-khan-b59985402/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE-WITH-YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C5FE0?style=for-the-badge&logo=googlechrome&logoColor=white)](REPLACE-WITH-PORTFOLIO-URL)
+
+</div>
+
+---
+
+## Hey, I'm Zahid 👋
 
 I'm a Python developer and co-founder of **[Apex Analyticx](https://github.com/Apex-Analyticx-group)**, a data analytics and tech company I'm building from Nagpur, India.
 
@@ -21,18 +37,38 @@ I work with data, write Python, and build websites. I'm on the path to AI/ML eng
 
 ### Apex Analyticx (co-founder)
 A data analytics and technology company that helps businesses turn raw data into decisions. Still early, and I'm hands-on across the brand, the content and our website.
+
 [GitHub org](https://github.com/Apex-Analyticx-group) · [LinkedIn](https://www.linkedin.com/company/apex-analyticx)
 
 ### NagpurLens: urban analytics for Nagpur
 A collaborative urban analytics and real estate intelligence platform for the city: investment scores, price-trend analysis and Power BI dashboards. Built with two teammates.
+
 **My part:** data quality validation, coordinate verification, methodology documentation and web management.
+
 [Repo](REPLACE-WITH-NAGPURLENS-REPO-LINK)
+
+<!-- After you upload assets/nagpurlens.png to this repo, delete this line and the closing line below to show the screenshot.
+<img src="https://raw.githubusercontent.com/zahidcodepy/zahidcodepy/main/assets/nagpurlens.png" alt="NagpurLens dashboard" width="600">
+-->
 
 ### AI search algorithms
 BFS, DFS and A\* search in Python, built for my AI lab course, with full documentation, lab records and diagrams so the logic is easy to follow.
-[Repo](https://github.com/zahidcodepy/python-ai-search-algorithms)
 
-*Where it all started:* [python-basics-journey](https://github.com/zahidcodepy/python-basics-journey) and [python-mini-projects](https://github.com/zahidcodepy/python-mini-projects). Not fancy, but you can see the progress.
+<a href="https://github.com/zahidcodepy/python-ai-search-algorithms">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahidcodepy&repo=python-ai-search-algorithms&theme=tokyonight&hide_border=true" alt="python-ai-search-algorithms" />
+</a>
+
+<details>
+<summary><b>Where it all started</b></summary>
+
+<br>
+
+Not fancy, but you can see the progress:
+
+- [python-basics-journey](https://github.com/zahidcodepy/python-basics-journey)
+- [python-mini-projects](https://github.com/zahidcodepy/python-mini-projects)
+
+</details>
 
 ---
 
@@ -45,10 +81,24 @@ BFS, DFS and A\* search in Python, built for my AI lab course, with full documen
 
 ## Toolbox
 
+<img src="https://skillicons.dev/icons?i=python,git,html,css,nextjs,ts,tailwind,ai&theme=dark" alt="Skills" />
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-1C5FE0?style=for-the-badge)
+
 **Code:** Python · Git & GitHub · HTML/CSS · Next.js, TypeScript, Tailwind (what I'm using on the Apex site)
 **Data:** Power BI · data validation · methodology documentation
 **Design:** Adobe Illustrator · UI/UX · graphic design · video editing
 **Also:** HDL/VHDL (hardware design, a side most Python folks don't have)
+
+---
+
+## GitHub at a glance
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zahidcodepy&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidcodepy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
@@ -60,3 +110,5 @@ Got a data mess, a website to build, or a remote role where I'd fit? Send me a s
 - 💼 LinkedIn: [Zahid Khan](https://www.linkedin.com/in/zahid-khan-b59985402/)
 - 🌐 Portfolio: [REPLACE-WITH-PORTFOLIO-URL](REPLACE-WITH-PORTFOLIO-URL)
 - 🕐 Timezone: IST (UTC+5:30), Nagpur, India
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1C5FE0,100:050505&height=100&section=footer)
